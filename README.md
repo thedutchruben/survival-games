@@ -1,1 +1,1 @@
-# survival-game
+# Minecraft Survival Games
